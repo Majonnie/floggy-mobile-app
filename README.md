@@ -40,7 +40,9 @@ Frog themed application to create and store audio and text logs.
 
 ## Built With
 
-[![Godot][Godot-badge]][Godot-url]
+[![React][React-badge]][React-url]
+[![Reactnative][Reactnative-badge]][Reactnative-url]
+API - TBD
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +76,7 @@ DDD
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
