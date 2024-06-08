@@ -42,7 +42,7 @@ Frog themed application to create and store audio and text logs.
 
 [![React][React-badge]][React-url]
 [![Reactnative][Reactnative-badge]][Reactnative-url]
-API - TBD
+[![Express][Express-badge]][Express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,5 +127,7 @@ Helpful resources I used for this project.
 [linkedin-url]: https://linkedin.com/in/bonhomme-julie
 [React-badge]: https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white`
 [React-url]: https://react.dev/
-[Reactnative-badge]: https://img.shields.io/badge/godot-000000?style=for-the-badge&logo=godotengine&logoColor=white`
+[Reactnative-badge]: https://img.shields.io/badge/reactnative-000000?style=for-the-badge&logo=react&logoColor=white`
 [Reactnative-url]: https://reactnative.dev/
+[Express-badge]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white`
+[Express-url]: https://expressjs.com/
