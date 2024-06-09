@@ -66,7 +66,7 @@ DDD
 1. DDD
 2. Clone the repo
    ```sh
-   git clone https://github.com/Majonnie/floggy
+   git clone https://github.com/Majonnie/floggy-mobile-app
    ```
 3. DDD
 
@@ -90,7 +90,7 @@ _For more examples, please refer to the [Documentation](https://example.com)._
   - [ ] DDD
   - [ ] DD
 
-See the [open issues](https://github.com/Majonnie/floggy/issues) for a full list of future features (and known issues).
+See the [open issues](https://github.com/Majonnie/floggy-mobile-app/issues) for a full list of future features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +102,7 @@ Majonnie - [@majolerigolo][twitter-url] - bonhommejulie.pro@gmail.com
 
 [Linktree][linktree-url]
 
-Project Link: [https://github.com/Majonnie/floggy](https://github.com/Majonnie/floggy)
+Project Link: [https://github.com/Majonnie/floggy-mobile-app](https://github.com/Majonnie/floggy-mobile-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
