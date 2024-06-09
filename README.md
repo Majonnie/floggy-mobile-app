@@ -120,8 +120,8 @@ Helpful resources I used for this project.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[issues-shield]: https://img.shields.io/github/issues/Majonnie/floggy.svg?style=for-the-badge
-[issues-url]: https://github.com/Majonnie/floggy/issues
+[issues-shield]: https://img.shields.io/github/issues/Majonnie/floggy-mobile-app.svg?style=for-the-badge
+[issues-url]: https://github.com/Majonnie/floggy-mobile-app/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [twitter-url]: https://x.com/majolerigolo
 [linktree-url]: https://linktr.ee/Majonnie
